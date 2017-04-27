@@ -1,1 +1,1 @@
-# css-helper
+css-helper helps to build web site styles 
